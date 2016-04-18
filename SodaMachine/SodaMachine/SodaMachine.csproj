@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Buyer.cs" />
     <Compile Include="Coin.cs" />
     <Compile Include="Dime.cs" />
     <Compile Include="Nickel.cs" />
